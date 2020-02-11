@@ -1,1 +1,2 @@
 O desafio é aplicar o conteudo aprendido na pagina de produtos na HOME
+foi add foot e home na pagina. faltam alguns ajustes.
