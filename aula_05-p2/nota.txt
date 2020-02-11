@@ -1,0 +1,5 @@
+Através do CSS, aplicar bordas nos elementos.
+
+Os diferentes tipos de bordas (border-radius = arredondada)
+
+A deixar a borda arredondada.
