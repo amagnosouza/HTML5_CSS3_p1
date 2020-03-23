@@ -1,0 +1,14 @@
+=======================================================================================
+A partir da p3 o conteudo será tratado apenas com commits para não poluir o repositorio
+
+=======================================================================================
+_aula01-p4_
+
+A ajustar a página principal para utilizar os mesmos padrões da página de produtos
+
+Medidas proporcionais com CSS
+
+Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+
+Como limpar o float, com a propriedade clear do CSS
+
