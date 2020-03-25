@@ -95,7 +95,7 @@ footer {
 }
 
 main {
-
+	
 }
 
 form {
@@ -152,27 +152,28 @@ td, th {
 	padding: 8px 15px;
 }
 
-/*css da página inicial*/
+
+/* css da página inicial */
 .banner {
-    width:100%;
+	width:100%;
 }
 
 .titulo-principal {
-    text-align: center;
-    font-size: 2em;
+	text-align: center;
+	font-size: 2em;
 	margin: 0 0 1em;
 	clear: left;
 }
 
 .principal {
 	padding: 3em 0;
+	background: #FEFEFE;
 	width: 940px;
 	margin: 0 auto;
-	background: #FEFEFEFE;
 }
 
 .principal p {
-    margin: 0 0 1em;
+	margin: 0 0 1em;
 }
 
 .principal strong {
@@ -190,13 +191,13 @@ td, th {
 }
 
 .mapa {
-	padding:3em 0;
-    background: linear-gradient(#FEFEFE, #888888);
+	padding: 3em 0;
+	background: linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa-conteudo {
-    width: 940px;
-    margin: 0 auto;
+	width: 940px;
+	margin: 0 auto;
 }
 
 .mapa p {
@@ -224,12 +225,9 @@ td, th {
 	line-height: 1.5;
 }
 
-/*
-	first-child - primeiro da lista
-	last-child - ultimo da lista
-	nth-child() - seleciona numero da lista especifica
-	nth-child(2n) - selefona os pares da lista
-*/
+.itens:before {
+	content: "⭐";
+}
 
 .itens:first-child {
 	font-weight: bold;
